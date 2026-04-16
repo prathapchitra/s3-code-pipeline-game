@@ -5,7 +5,7 @@ variable "my_bucket_region" {
 }
 
 variable "my_bucket_name" {
-    description = "my bucket name"
+    descriptionmy-meme-card-game-prathap-2026"
     type = string
     default = "my-meme-card-game"
 }
