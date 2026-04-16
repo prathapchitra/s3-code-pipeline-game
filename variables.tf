@@ -5,7 +5,7 @@ variable "my_bucket_region" {
 }
 
 variable "my_bucket_name" {
-    description = "my-test-buket-game-123456"
+    description = "real-game-task-project"
     type = string
-    default = "my-test-buket-game-12345"
+    default = "real-game-task-project"
 }
